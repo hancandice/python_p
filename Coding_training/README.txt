@@ -1,1 +1,1 @@
-Coding trainig exercise with quizzes from "http://codingdojang.com/"
+Coding training with quizzes from "http://codingdojang.com/"
