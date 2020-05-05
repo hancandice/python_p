@@ -1,0 +1,1 @@
+Coding trainig exercise with quizzes from "http://codingdojang.com/"
