@@ -118,8 +118,8 @@ def specialsort(numbers):
             list2.append(number)
         else:
             list3.append(number)
-    result = list2 + list3
-    return " ".join(result)
+    list2.extend(list3)
+    return " ".join(list2)
 
 
 # next ? The Knights Of The Round Table
